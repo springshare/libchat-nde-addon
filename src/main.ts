@@ -1,2 +1,2 @@
-import('./bootstrap')
+import('./bootstrapLibChat')
 	.catch(err => console.error(err));
